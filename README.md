@@ -1,8 +1,8 @@
 ### Hi, I'm Walter Felipe Paranhos de Miranda
 
-📚 I'm a Student in System Information at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
+📚 I'm a System Information student
 
-📝 I'm a Analyst Developer Jr. 
+📝 Analyst developer  
 
 
 <hr>
