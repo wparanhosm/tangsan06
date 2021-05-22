@@ -22,4 +22,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
 <hr>
 
-![Tangsan06 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tangsan06&show_icons=true)
+<h3>Analytics</h3>
+<p align="left">
+<a href="https://github.com/GuillaumeFalourd">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tangsan06&show_icons=true&theme=radical"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangsan06&hide=scss&layout=compact&theme=radical"/>
+</a>
+</p>
