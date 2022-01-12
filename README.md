@@ -1,9 +1,6 @@
 ### Hi, I'm Walter Felipe Paranhos de Miranda
 
-📚 I'm a System Information student
-
 📝 Analyst developer  
-
 
 <hr>
 
